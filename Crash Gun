@@ -44,4 +44,4 @@ public static void TagGunW()
              pointer.gameObject.GetComponent<Renderer>().material.color = Color.white;
              PointerBreak = false;
              GorillaTagger.Instance.offlineVRRig.enabled = true;
-         }
+         }Public Class CrashGun:Monobehaveior
